@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Headphones Headband Arc -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#E5A93C"
+        android:strokeWidth="4.5"
+        android:strokeLineCap="round"
+        android:pathData="M 32,54 A 22,22 0 0,1 76,54" />
+
+    <!-- Left Heaphone Ear Cup -->
+    <path
+        android:fillColor="#E5A93C"
+        android:pathData="M 27,48 C 27,45 31,45 31,48 L 31,60 C 31,63 27,63 27,60 Z" />
+
+    <!-- Right Headphone Ear Cup -->
+    <path
+        android:fillColor="#E5A93C"
+        android:pathData="M 77,48 C 77,45 81,45 81,48 L 81,60 C 81,63 77,63 77,60 Z" />
+
+    <!-- Symmetrical Open Audiobook Motif in Center -->
+    <!-- Left Page of Book -->
+    <path
+        android:fillColor="#E5A93C"
+        android:pathData="M 52,47 L 40,47 C 37,47 37,58 40,58 L 52,58 Z" />
+
+    <!-- Right Page of Book -->
+    <path
+        android:fillColor="#E5A93C"
+        android:pathData="M 56,47 L 68,47 C 71,47 71,58 68,58 L 56,58 Z" />
+
+    <!-- Book Spine / Audio Waves -->
+    <path
+        android:fillColor="#0f1015"
+        android:pathData="M 53,45 L 55,45 L 55,60 L 53,60 Z" />
+</vector>

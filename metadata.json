@@ -1,0 +1,6 @@
+{
+  "name": "DigiBook",
+  "description": "Sleek frontend client for your self-hosted custom audiobook server, featuring background playback, offline caching, and cross-device sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
